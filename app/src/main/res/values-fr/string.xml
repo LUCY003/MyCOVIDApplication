@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Junnias created the french version of the value -->
+<resources>
+    <string name="app_name">Projet Android</string>
+    <string name="searchString">Recherché</string>
+    <string name="country_string">Pays :</string>
+    <string name="countryHint">Veuillez saisir votre pays :</string>
+    <string name="start_date">Date de début :</string>
+    <string name="endDate">Date de fin :</string>
+    <string name="must_enter">Le pays et la date doivent être saisis ! </string>
+    <string name="wantToDel">Le pays et la date doivent être saisis ! </string>
+    <string name="selectedRow">La ligne sélectionnée est :</string>
+    <string name="databaseId">L\'ID de la base de données est :</string>
+    <string name="endDateHint">Entrez la date (AAAA-MM-JJ)</string>
+    <string name="loadResults">Charger les résultats</string>
+    <string name="saved_dates">Requête précédente</string>
+    <string name="yourResults">Vos résultats :</string>
+    <string name="saveResults">Enregistrer les résultats</string>
+    <string name="results">Vos résultats apparaîtront ici</string>
+    <string name="you_removed_toast">Numéro d\'article supprimé</string>
+    <string name="help">Aide</string>
+    <string name="startPage">Page de démarrage</string>
+    <string name="savedPage">Résultats enregistrés</string>
+    <string name="searchPage">Page de recherche</string>
+    <string name="open">Ouvrir</string>
+    <string name="close">Sélectionner</string>
+    <string name="howTo">Comment :</string>
+    <string name="clickHelp">Vous avez cliqué pour obtenir de l\'aide</string>
+    <string name="searchHelp">Pour plus informations sur les cas Covid, entrez le pays, la date de début et la date de fin dans chaque entrée.
+        Assurez-vous que le format de date est le suivant  Après avoir saisi la requête, cliquez sur le bouton Rechercher et vous serez redirigé vers la page des résultats.
+        Vous pouvez afficher les données enregistrées en cliquant sur le bouton .</string>
+    <string name="resultHelp">Cette page contient les résultats de votre requête.
+        Cliquer sur le bouton Enregistrer les résultats enregistre les résultats et vous amène à la page Résultats enregistrés. </string>
+    <string name="savedHelp">Cette page contient des requêtes enregistrées.
+        Cliquez sur une requête enregistrée pour afficher les détails de cette requête.
+        Cliquez et maintenez sur une requête pour obtenir option de supprimer la requête. </string>
+    <string name="onSearchPage">Vous êtes sur la page de recherche</string>
+    <string name="onSavedPage">Afficher la page de requête enregistrée</string>
+    <string name="fragment_id_message">ID = </string>
+    <string name="fragment_msg">Message ici</string>
+    <string name="hide_btn_text">Masquer</string>
+
+    <string name="wantToSave">Voulez-vous enregistrer cette requête ? </string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="cancel">Annuler</string>
+    <string name="covid19_app">Application Covid-19</string>
+    <string name="start">démarrer</string>
+    <string name="info">Informations</string>
+    <string name="clickInfo">Vous avez cliqué pour obtenir des informations</string>
+    <string name="covidTitle">Qu\'est-ce que le COVID-19 ? </string>
+    <string name="covidDescription">La maladie à coronavirus (COVID-19) est une maladie infectieuse causée par le virus SARS-CoV-2.
+    La plupart des personnes qui tombent malades avec le COVID-19 présentent des symptômes légers à modérés et se rétablissent sans traitement spécifique.
+        Cependant, certaines personnes tombent gravement malades et doivent consulter un médecin.
+
+Le virus peut se propager par la bouche et le nez sous forme de petites particules liquides lorsq une personne infectée tousse, éternue, parle, chante ou respire.
+        Ces particules vont des gouttelettes respiratoires plus grosses aux aérosols plus petits.
+Si vous êtes à proximité une personne atteinte de la COVID-19, vous pouvez lattraper en respirant le virus ou en touchant une surface contaminée, puis en vous touchant les yeux, le nez ou la bouche. Les virus se propagent plus facilement à intérieur et dans les environnements surpeuplés. </string>
+    <string name="ok">OK</string>
+    <string name="startHelp">Cette application vous permet de rechercher et enregistrer des numéros de cas Covid-19 dans le monde entier. Appuyez sur start pour commencer ! </string>
+    <string name="resultLabel">résultat</string>
+    <string name="savedQueryLabel">Requête enregistrée</string>
+    <string name="covidLabel">Demande COVID-19</string>
+    <string name="searchLabel">Rechercher</string>
+
+
+</resources>
