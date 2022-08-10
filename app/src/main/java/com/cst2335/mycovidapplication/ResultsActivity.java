@@ -46,8 +46,8 @@ public class ResultsActivity<CovidData> extends AppCompatActivity implements Nav
         theDB = myOpener.getWritableDatabase();
         TextView viewResults = findViewById(R.id.tv_result);
         viewResults.setMovementMethod(new ScrollingMovementMethod());
-        ArrayList<com.cst2335.covidapp.CovidData> results;
-        results = (ArrayList<com.cst2335.covidapp.CovidData>) getIntent().getSerializableExtra("Result");
+        ArrayList<com.cst2335.mycovidapplication.CovidData> results;
+        results = (ArrayList<com.cst2335.mycovidapplication.CovidData>) getIntent().getSerializableExtra("Result");
 
         /*Toolbar and Navigation Drawer*/
         Toolbar toolbar = findViewById(R.id.toolbar);

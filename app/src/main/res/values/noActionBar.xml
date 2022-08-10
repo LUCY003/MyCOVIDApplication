@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Theme that is used when activity has custom ActionBar-->
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Theme.MyCOVIDApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.noActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
@@ -11,8 +12,10 @@
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
-        <item name="windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
         <!-- Customize your theme here. -->
+
     </style>
+
+
+
 </resources>
